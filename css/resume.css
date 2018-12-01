@@ -193,8 +193,8 @@ a:hover, a:focus, a:active {
 .proImg {
   position: relative;
     /* float: left; */
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     /* margin: 20px 0 25px; */
     overflow: auto;
 }
@@ -208,5 +208,5 @@ a:hover, a:focus, a:active {
     line-height: 30px;
     text-align: center;
     color: #fff;
-    background: #4aaaa5;
+    background: #BD5D38;
 }
