@@ -190,3 +190,23 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+.proImg {
+  position: relative;
+    /* float: left; */
+    width: 150px;
+    height: 150px;
+    /* margin: 20px 0 25px; */
+    overflow: auto;
+}
+.proTag {
+  position: absolute;
+  bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: center;
+    color: #fff;
+    background: #4aaaa5;
+}
